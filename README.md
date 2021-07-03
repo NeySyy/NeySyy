@@ -1,7 +1,7 @@
 -----
 
 <p align = "center">
-<img src="https://www.icegif.com/wp-content/uploads/tanjiro-icegif-6.gif">
+<img src="https://www.icegif.com/wp-content/uploads/tanjiro-icegif-3.gif">
 </p>
 
 -----
