@@ -12,8 +12,20 @@
   <br>
   <br>
   <br>
-  <img src="https://media.discordapp.net/attachments/817110384359243888/861013388322144256/tenor_1.gif">
+  <img src="https://zupimages.net/up/21/22/oe6x.gif">
   <br>
+  <br>
+  <br>
+  <a href="https://billythegoat356.github.io">🌍 Mon site Web en cours de Développement 🌍</a>
+  <br>
+  <a href="https://billy.loca.lt/">🎨 Mon Api 🎨</a>
+  <br>
+  <br>
+  <a href="https://youtube.com/c/billythegoat356/">📺 Ma chaîne YouTube 📺</a>
+  <br>
+  <a href="https://discord.gg/plague/">💬 Mon serveur Discord | discord.gg/plague 💬</a>
+  <br>
+  <a href="https://discord.com/api/oauth2/authorize?client_id=838754317790871565&permissions=34816&scope=bot">☢ Mon Bot Discord ☢</a>
   <br>
 </p>
 
