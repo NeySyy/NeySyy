@@ -1,7 +1,7 @@
 -----
 
 <p align = "center">
-<img src="https://cdn.discordapp.com/attachments/857335828011155490/858401080710922260/image0.gif">
+<img src="https://www.icegif.com/wp-content/uploads/tanjiro-icegif-6.gif">
 </p>
 
 -----
